@@ -1,6 +1,6 @@
 # tod-ReID
 淘然视界行人ReID数据集
-<table border="1">
+<table>
   <tr>
     <th>原图</th>
     <th>标注样例</th>
