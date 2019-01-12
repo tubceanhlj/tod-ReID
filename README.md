@@ -18,19 +18,19 @@
     <th>标注样例</th>
   </tr>
   <tr>
-    <td> <img src="https://github.com/tubceanhlj/tod-ReID/blob/master/imgs/1_20181119200139_0703.jpg" width="960" height="544" /> </td>
+    <td> <img src="https://github.com/tubceanhlj/tod-ReID/blob/master/imgs/1.jpg" width="960" height="544" /> </td>
   </tr>
   <tr>
-    <td> <img src="https://github.com/tubceanhlj/tod-ReID/blob/master/imgs/2_20181119200203_0101.jpg" width="960" height="544" /> </td>
+    <td> <img src="https://github.com/tubceanhlj/tod-ReID/blob/master/imgs/2.jpg" width="960" height="544" /> </td>
   </tr>
   <tr>
-    <td> <img src="https://github.com/tubceanhlj/tod-ReID/blob/master/imgs/3_20181119200224_0865.jpg" width="960" height="544" /> </td>
+    <td> <img src="https://github.com/tubceanhlj/tod-ReID/blob/master/imgs/3.jpg" width="960" height="544" /> </td>
   </tr> 
   <tr>
-    <td> <img src="https://github.com/tubceanhlj/tod-ReID/blob/master/imgs/4_20181119200240_0959.jpg" width="960" height="544" /> </td>
+    <td> <img src="https://github.com/tubceanhlj/tod-ReID/blob/master/imgs/4.jpg" width="960" height="544" /> </td>
   </tr>
    <tr>
-    <td> <img src="https://github.com/tubceanhlj/tod-ReID/blob/master/imgs/5_20181119200257_0728.jpg" width="960" height="544" /> </td>
+    <td> <img src="https://github.com/tubceanhlj/tod-ReID/blob/master/imgs/5.jpg" width="960" height="544" /> </td>
   </tr>
 </table>
 
